@@ -1,0 +1,14 @@
+*.txt
+*.cyfit
+*.cycdx
+*.cydwr
+*.cyprj
+*.rpt
+*.svd
+*.html
+/Archive
+/Backup
+/codegentemp
+/CortexM0
+/Export
+/TopDesign
